@@ -1,8 +1,8 @@
 ﻿
-namespace RentalService.Service
+namespace RentalProject.Service
 {
     internal interface ITaxService
     {
-        public double Tax { get; set; }
+        double Tax(double amount);
     }
 }

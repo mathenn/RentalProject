@@ -1,7 +1,7 @@
 ﻿
-namespace RentalService.Service
+namespace RentalProject.Service
 {
-    internal class BrazilTaxService : ITaxService
+    internal class BrazilTaxService : ITaxService // Interface realization //
     {
         public double Tax(double amount)
         {

@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Globalization;
 
-namespace RentalService.Entities
+namespace RentalProject.Entities
 {
     class Invoice
     {

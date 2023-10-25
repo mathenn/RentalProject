@@ -1,0 +1,15 @@
+C:\CSharp\RentalService\obj\Debug\net7.0\RentalProject.csproj.AssemblyReference.cache
+C:\CSharp\RentalService\obj\Debug\net7.0\RentalProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\RentalService\obj\Debug\net7.0\RentalProject.AssemblyInfoInputs.cache
+C:\CSharp\RentalService\obj\Debug\net7.0\RentalProject.AssemblyInfo.cs
+C:\CSharp\RentalService\obj\Debug\net7.0\RentalProject.csproj.CoreCompileInputs.cache
+C:\CSharp\RentalService\bin\Debug\net7.0\RentalProject.exe
+C:\CSharp\RentalService\bin\Debug\net7.0\RentalProject.deps.json
+C:\CSharp\RentalService\bin\Debug\net7.0\RentalProject.runtimeconfig.json
+C:\CSharp\RentalService\bin\Debug\net7.0\RentalProject.dll
+C:\CSharp\RentalService\bin\Debug\net7.0\RentalProject.pdb
+C:\CSharp\RentalService\obj\Debug\net7.0\RentalProject.dll
+C:\CSharp\RentalService\obj\Debug\net7.0\refint\RentalProject.dll
+C:\CSharp\RentalService\obj\Debug\net7.0\RentalProject.pdb
+C:\CSharp\RentalService\obj\Debug\net7.0\RentalProject.genruntimeconfig.cache
+C:\CSharp\RentalService\obj\Debug\net7.0\ref\RentalProject.dll

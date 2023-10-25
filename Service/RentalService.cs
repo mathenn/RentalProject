@@ -7,13 +7,14 @@ namespace RentalProject.Service
         public double PricePerHour { get; private set; }
         public double PricePerDay { get; private set; }
 
-        public RentalService(double pricePerHour, double pricePerDay)
+        private ITaxService _taxService;
+
+        public RentalService(double pricePerHour, double pricePerDay, ITaxService taxService)
         {
             PricePerHour = pricePerHour;
             PricePerDay = pricePerDay;
+            _taxService = taxService;
         }
-
-        private ITaxService _taxService = new BrazilTaxService();
 
         public void ProcessInvoice(CarRental carRental)
         {
