@@ -21,11 +21,11 @@ namespace RentalProject.Entities
 
         public override string ToString()
         {
-            return "basic payment: "
+            return "basic payment: $"
                 + BasicPayment.ToString("F2", CultureInfo.InvariantCulture)
-                + "/nTax: "
+                + "\nTax: $"
                 + Tax.ToString("F2", CultureInfo.InvariantCulture)
-                + "/nTotal payment: "
+                + "\nTotal payment: $"
                 + TotalPayment.ToString("F2", CultureInfo.InvariantCulture);
         }
     }
